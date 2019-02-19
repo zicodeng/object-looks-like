@@ -1,0 +1,27 @@
+{
+  "name": "object-looks-like",
+  "version": "1.0.0",
+  "description": "An utility function for comparing if object A looks like object B.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zicodeng/object-looks-like.git"
+  },
+  "keywords": [
+    "compare",
+    "looks-like",
+    "like"
+  ],
+  "author": "Zico Deng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zicodeng/object-looks-like/issues"
+  },
+  "homepage": "https://github.com/zicodeng/object-looks-like#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
